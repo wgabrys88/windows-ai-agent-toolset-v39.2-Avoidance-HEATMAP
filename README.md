@@ -1,4 +1,4 @@
-"""
+```
 FRANZ AGENT -- ARCHITECTURE REPORT
 ====================================
 Comparison: Original Architecture vs. Current Architecture
@@ -265,4 +265,4 @@ This means the coordinate system is consistent end-to-end: the model sees
 coordinate (500, 500) as the center of whatever region was selected in the
 crop overlay, and clicking (500, 500) physically moves the cursor to the
 center of that same region on screen.
-"""
+```
